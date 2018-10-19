@@ -1,0 +1,1121 @@
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360249200", "value": 789410653.1460999}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360249200", "value": 582773703.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360249200", "value": 461156951.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360249200", "value": 460417290.87719995}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360249200", "value": 242760983.6132}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360249200", "value": 192798967.6276}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360249200", "value": 143178090.1144}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360249800", "value": 595234669.5636}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360249800", "value": 695298677.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360249800", "value": 447649961.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360249800", "value": 853559612.1126}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360249800", "value": 450050367.6006}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360249800", "value": 357426654.65580004}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360249800", "value": 193142521.7832}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360250400", "value": 590744244.6456}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360250400", "value": 789680388.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360250400", "value": 457472592.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360250400", "value": 1418542978.9752}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360250400", "value": 747945169.9512}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360250400", "value": 594012491.0616001}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360250400", "value": 191351037.1388}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360251000", "value": 756549687.0692999}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360251000", "value": 747657277.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360251000", "value": 463999028.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360251000", "value": 1051541670.2219999}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360251000", "value": 554438973.582}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360251000", "value": 440331309.12600005}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360251000", "value": 257129180.8008}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360251600", "value": 653602855.2070999}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360251600", "value": 766523544.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360251600", "value": 458373059.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360251600", "value": 725510939.2409999}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360251600", "value": 382535045.321}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360251600", "value": 303806487.85300004}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360251600", "value": 223175680.1692}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360252200", "value": 523102996.76009995}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360252200", "value": 1192810281.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360252200", "value": 436771952.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360252200", "value": 693360673.7840999}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360252200", "value": 365583401.1921}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360252200", "value": 290343618.1653}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360252200", "value": 304172640.5784}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360252800", "value": 590037033.7954}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360252800", "value": 1254774319.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360252800", "value": 438449405.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360252800", "value": 480685225.81109995}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360252800", "value": 253447514.9791}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360252800", "value": 201286131.35630003}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360252800", "value": 376525454.0784}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360253400", "value": 584070551.6515}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360253400", "value": 1646726317.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360253400", "value": 440198997.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360253400", "value": 484396971.18209994}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360253400", "value": 255404580.8301}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360253400", "value": 202840418.4993}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360253400", "value": 289492718.0596}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360254000", "value": 537069466.4605}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360254000", "value": 880877091.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360254000", "value": 438647245.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360254000", "value": 482274784.48829997}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360254000", "value": 254285630.3923}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360254000", "value": 201951756.38390002}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360254000", "value": 273799099.0812}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360254600", "value": 523341868.68649995}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360254600", "value": 1111787184.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360254600", "value": 438141046.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360254600", "value": 520045558.0566}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360254600", "value": 274200760.2646}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360254600", "value": 217768204.40780002}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360254600", "value": 334789431.7372}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360255200", "value": 452077225.9966}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360255200", "value": 718226087.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360255200", "value": 441248607.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360255200", "value": 502795075.90349996}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360255200", "value": 265105219.9835}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360255200", "value": 210544593.96550003}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360255200", "value": 260378226.8912}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360255800", "value": 425970505.8901}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360255800", "value": 1123316428.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360255800", "value": 435874441.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360255800", "value": 239176519.60349998}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360255800", "value": 126108919.6835}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360255800", "value": 100154766.0655}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360255800", "value": 187571833.1564}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360256400", "value": 468637133.6859}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360256400", "value": 885233786.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360256400", "value": 440161770.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360256400", "value": 13206706.9839}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360256400", "value": 6963407.4159}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360256400", "value": 5530286.3787}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360256400", "value": 205526749.2784}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360257000", "value": 368443581.19299996}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360257000", "value": 628317488.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360257000", "value": 435759426.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360257000", "value": 58543260.63119999}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360257000", "value": 30867692.8872}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360257000", "value": 24514892.1096}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360257000", "value": 322207953.0208}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360257600", "value": 320747037.0848}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360257600", "value": 570924038.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360257600", "value": 436506218.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360257600", "value": 697251811.5378}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360257600", "value": 367635054.0018}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360257600", "value": 291973025.56740004}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360257600", "value": 280095306.0708}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360258200", "value": 757666759.8856}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360258200", "value": 351232116.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360258200", "value": 436862677.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360258200", "value": 112157918.55359998}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360258200", "value": 59136716.1216}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360258200", "value": 46965940.1088}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360258200", "value": 281847633.3288}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360258800", "value": 379729008.8986}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360258800", "value": 513109938.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360258800", "value": 442434198.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360258800", "value": 144753330.46229997}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360258800", "value": 76323069.4863}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360258800", "value": 60615214.12590001}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360258800", "value": 254158265.8164}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360259400", "value": 300331580.118}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360259400", "value": 633992732.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360259400", "value": 440581215.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360259400", "value": 204580782.9816}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360259400", "value": 107867869.1896}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360259400", "value": 85667859.43280001}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360259400", "value": 358929288.8104}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360260000", "value": 373314874.77169997}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360260000", "value": 1281951349.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360260000", "value": 443333517.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360260000", "value": 42769996.3749}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360260000", "value": 22551034.8869}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360260000", "value": 17909864.181700002}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360260000", "value": 273303346.7736}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360260600", "value": 457888000.9478}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360260600", "value": 1206675678.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360260600", "value": 437612719.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360260600", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360260600", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360260600", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360260600", "value": 306924346.3484}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360261200", "value": 452518721.77769995}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360261200", "value": 1257089436.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360261200", "value": 436467329.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360261200", "value": 2765687.8841999997}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360261200", "value": 1458244.7802}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360261200", "value": 1158127.1586}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360261200", "value": 268323559.3412}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360261800", "value": 366354589.3013}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360261800", "value": 1093468479.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360261800", "value": 438528212.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360261800", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360261800", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360261800", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360261800", "value": 270905554.4008}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360262400", "value": 234450236.56449997}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360262400", "value": 1183095765.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360262400", "value": 442657579.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360262400", "value": 52054305.0633}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360262400", "value": 27446306.9673}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360262400", "value": 21797652.858900003}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360262400", "value": 351444074.9116}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360263000", "value": 248839491.97469997}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360263000", "value": 1617988026.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360263000", "value": 438766245.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360263000", "value": 12066939.573299998}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360263000", "value": 6362450.2773}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360263000", "value": 5053010.6889}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360263000", "value": 296998884.30079997}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360263600", "value": 302089729.6612}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360263600", "value": 783710468.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360263600", "value": 436474101.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360263600", "value": 27457194.247799996}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360263600", "value": 14477161.5118}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360263600", "value": 11497653.9974}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360263600", "value": 321934604.5344}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360264200", "value": 247179082.26819998}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360264200", "value": 670091833.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360264200", "value": 441497856.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360264200", "value": 21843884.929199997}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360264200", "value": 11517471.4252}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360264200", "value": 9147090.1436}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360264200", "value": 348855050.71999997}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360264800", "value": 207275480.023}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360264800", "value": 644261644.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360264800", "value": 441543482.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360264800", "value": 28757166.071399998}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360264800", "value": 15162588.5034}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360264800", "value": 12042015.0162}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360264800", "value": 435670096.6508}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360265400", "value": 170800268.8146}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360265400", "value": 526341943.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360265400", "value": 440575600.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360265400", "value": 148547453.16509998}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360265400", "value": 78323569.8531}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360265400", "value": 62203996.6383}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360265400", "value": 334161505.9156}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360266000", "value": 144634968.451}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360266000", "value": 713616125.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360266000", "value": 440960359.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360266000", "value": 124573669.71989998}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360266000", "value": 65683081.8319}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360266000", "value": 52165015.066700004}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360266000", "value": 233709424.0844}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360266600", "value": 184374733.2943}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360266600", "value": 675720508.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360266600", "value": 443018277.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360266600", "value": 29040007.2213}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360266600", "value": 15311720.1653}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360266600", "value": 12160454.2729}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360266600", "value": 228767579.9156}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360267200", "value": 206517054.52719998}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360267200", "value": 595572819.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360267200", "value": 443906118.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360267200", "value": 28692139.036499996}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360267200", "value": 15128302.1565}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360267200", "value": 12014785.0545}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360267200", "value": 224700458.4264}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360267800", "value": 254029212.7191}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360267800", "value": 634765563.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360267800", "value": 444074777.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360267800", "value": 145637002.3827}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360267800", "value": 76788996.9587}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360267800", "value": 60985250.259100005}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360267800", "value": 269611932.1632}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360268400", "value": 342281881.73719996}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360268400", "value": 548212659.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360268400", "value": 436047523.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360268400", "value": 26396193.6036}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360268400", "value": 13917735.171600001}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360268400", "value": 11053361.7588}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360268400", "value": 217761275.7496}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360269000", "value": 451150220.17329997}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360269000", "value": 581997267.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360269000", "value": 441601629.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360269000", "value": 5776691.6844}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360269000", "value": 3045835.5564}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360269000", "value": 2418979.9452}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360269000", "value": 248190559.9404}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360269600", "value": 244628556.5934}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360269600", "value": 564812788.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360269600", "value": 438986820.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360269600", "value": 30223138.6467}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360269600", "value": 15935541.5427}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360269600", "value": 12655888.5711}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360269600", "value": 232501588.07479998}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360270200", "value": 258954918.9315}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360270200", "value": 604626090.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360270200", "value": 439336568.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360270200", "value": 44814968.421}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360270200", "value": 23629272.901}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360270200", "value": 18766192.793}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360270200", "value": 240880532.3144}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360270800", "value": 215069158.7724}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360270800", "value": 504509514.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360270800", "value": 439497742.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360270800", "value": 10968493.3674}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360270800", "value": 5783280.2794}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360270800", "value": 4593038.1842}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360270800", "value": 246159503.8056}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360271400", "value": 198876026.271}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360271400", "value": 457736103.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360271400", "value": 450121134.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360271400", "value": 40231872.770399995}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360271400", "value": 21212776.3224}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360271400", "value": 16847029.1832}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360271400", "value": 227014957.6244}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360272000", "value": 230759723.17009997}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360272000", "value": 572129162.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360272000", "value": 439582022.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360272000", "value": 1640887.6781999997}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360272000", "value": 865179.2942}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360272000", "value": 687118.9606}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360272000", "value": 328525737.7688}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360272600", "value": 291021672.3851}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360272600", "value": 490087463.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360272600", "value": 441343814.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360272600", "value": 2288537.4074999997}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360272600", "value": 1206661.0075}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360272600", "value": 958321.1975}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360272600", "value": 360944222.8084}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360273200", "value": 237465216.63729998}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360273200", "value": 632036602.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360273200", "value": 439596893.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360273200", "value": 235467289.119}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360273200", "value": 124153179.839}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360273200", "value": 98601532.02700001}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360273200", "value": 387306521.9232}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360273800", "value": 243732479.44309998}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360273800", "value": 636141065.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360273800", "value": 441918765.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360273800", "value": 43602104.372999996}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360273800", "value": 22989774.613}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360273800", "value": 18258308.009}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360273800", "value": 240035959.6712}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360274400", "value": 366337408.2953}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360274400", "value": 354940983.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360274400", "value": 440046736.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360274400", "value": 89000475.82919998}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360274400", "value": 46926654.3252}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360274400", "value": 37268799.843600005}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360274400", "value": 178930799.278}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360275000", "value": 243506810.5851}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360275000", "value": 480936138.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360275000", "value": 439864611.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360275000", "value": 142578069.4251}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360275000", "value": 75176134.9131}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360275000", "value": 59704327.21830001}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360275000", "value": 183440741.12759998}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360275600", "value": 231116377.4887}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360275600", "value": 471274751.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360275600", "value": 437500445.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360275600", "value": 372809738.26799995}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360275600", "value": 196568766.108}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360275600", "value": 156113452.044}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360275600", "value": 153929956.0172}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360276200", "value": 385824775.96599996}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360276200", "value": 392732481.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360276200", "value": 438245254.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360276200", "value": 320606160.2643}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360276200", "value": 169043753.0483}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360276200", "value": 134253291.3919}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360276200", "value": 148592032.7232}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360276800", "value": 597475601.9928}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360276800", "value": 464357080.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360276800", "value": 434639728.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360276800", "value": 356875425.2223}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360276800", "value": 188167193.0463}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360276800", "value": 149440985.2059}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360276800", "value": 138574664.888}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360277400", "value": 523720263.886}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360277400", "value": 482818304.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360277400", "value": 434680578.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360277400", "value": 294143236.72559994}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360277400", "value": 155090833.6536}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360277400", "value": 123171986.5848}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360277400", "value": 150657820.7464}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360278000", "value": 375243726.57339996}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360278000", "value": 690568982.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360278000", "value": 435958460.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360278000", "value": 404243143.05329996}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360278000", "value": 213142436.1573}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360278000", "value": 169276137.5289}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360278000", "value": 163576843.276}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360278600", "value": 280861620.60789996}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360278600", "value": 438202986.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360278600", "value": 438062391.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360278600", "value": 336139511.0499}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360278600", "value": 177233913.5619}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360278600", "value": 140757855.9567}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360278600", "value": 242355833.82119998}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360279200", "value": 580409551.7023}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360279200", "value": 322691382.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360279200", "value": 434569847.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360279200", "value": 404282715.5649}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360279200", "value": 213163301.2769}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360279200", "value": 169292708.4517}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360279200", "value": 181842049.1228}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360279800", "value": 444061700.3369}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360279800", "value": 450190224.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360279800", "value": 435045623.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360279800", "value": 419087292.0789}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360279800", "value": 220969206.1109}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360279800", "value": 175492100.0137}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360279800", "value": 154821309.77719998}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360280400", "value": 445069678.7089}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360280400", "value": 721275023.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360280400", "value": 437778851.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360280400", "value": 385721629.8171}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360280400", "value": 203376728.2651}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360280400", "value": 161520284.95430002}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360280400", "value": 145105588.6896}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360281000", "value": 747034532.2753999}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360281000", "value": 1342958686.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360281000", "value": 434540674.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360281000", "value": 363492376.04099995}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360281000", "value": 191656066.121}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360281000", "value": 152211822.25300002}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360281000", "value": 131999686.4208}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360281600", "value": 644966015.661}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360281600", "value": 932216792.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360281600", "value": 434548689.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360281600", "value": 284706228.8199}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360281600", "value": 150115048.9319}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360281600", "value": 119220255.36670001}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360281600", "value": 132381129.9052}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360282200", "value": 1129623728.2668}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360282200", "value": 1762502300.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360282200", "value": 434415759.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360282200", "value": 493635642.21959996}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360282200", "value": 260275789.8676}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360282200", "value": 206709096.48680001}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360282200", "value": 79926161.656}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360282800", "value": 733569958.9724}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360282800", "value": 576862474.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360282800", "value": 434453072.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360282800", "value": 258300078.79739997}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360282800", "value": 136192064.1094}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360282800", "value": 108162724.3742}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360282800", "value": 197547843.3192}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360283400", "value": 513270430.6213}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360283400", "value": 1050034986.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360283400", "value": 434762258.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360283400", "value": 109482055.86269999}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360283400", "value": 57725832.838700004}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360283400", "value": 45845427.0991}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360283400", "value": 188123663.9788}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360284000", "value": 609495321.6442}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360284000", "value": 1592304438.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360284000", "value": 434692132.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360284000", "value": 156709667.52389997}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360284000", "value": 82627203.1559}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360284000", "value": 65621910.1987}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360284000", "value": 148703708.9076}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360284600", "value": 718192666.7881}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360284600", "value": 1631920159.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360284600", "value": 436934156.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360284600", "value": 115479756.74069999}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360284600", "value": 60888198.3567}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360284600", "value": 48356954.2731}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360284600", "value": 89536424.4632}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360285200", "value": 930634523.3222}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360285200", "value": 1232867615.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360285200", "value": 437072226.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360285200", "value": 128662189.01999998}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360285200", "value": 67838806.62}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360285200", "value": 53877075.660000004}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360285200", "value": 11969658.2632}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360285800", "value": 720327449.9768}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360285800", "value": 1003810701.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360285800", "value": 434514753.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360285800", "value": 176063891.51189998}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360285800", "value": 92831968.5839}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360285800", "value": 73726459.0027}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360285800", "value": 128767297.2432}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360286400", "value": 684267774.5256}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360286400", "value": 676478838.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360286400", "value": 434790126.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360286400", "value": 82018556.7144}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360286400", "value": 43245346.9864}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360286400", "value": 34345132.935200006}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360286400", "value": 56673450.834}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360287000", "value": 614287834.599}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360287000", "value": 749309372.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360287000", "value": 436925440.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360287000", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360287000", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360287000", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360287000", "value": 50312200.5804}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360287600", "value": 512217579.3282}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360287600", "value": 872175194.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360287600", "value": 410539413.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360287600", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360287600", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360287600", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360287600", "value": 21154233.936}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360288320", "value": 901502467.1829}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360288320", "value": 1109871397.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360288320", "value": 568025194.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360288320", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360288320", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360288320", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360288320", "value": 34612073.1968}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360289100", "value": 685180576.6814}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360289100", "value": 548833906.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360289100", "value": 434601990.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360289100", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360289100", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360289100", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360289100", "value": 98574635.5704}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360289700", "value": 693578212.6761999}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360289700", "value": 804298524.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360289700", "value": 436914759.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360289700", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360289700", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360289700", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360289700", "value": 52261392.0268}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360290300", "value": 711041576.2673999}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360290300", "value": 1167428668.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360290300", "value": 436102564.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360290300", "value": 314596385.325}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360290300", "value": 165875021.325}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360290300", "value": 131736708.22500001}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360290300", "value": 22456803.7012}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360290900", "value": 714450206.2851}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360290900", "value": 1324822822.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360290900", "value": 436579614.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360290900", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360290900", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360290900", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360290900", "value": 24947417.3256}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360291500", "value": 929705230.0806999}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360291500", "value": 2512131708.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360291500", "value": 435686145.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360291500", "value": 2282342.3354999996}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360291500", "value": 1203394.5755}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360291500", "value": 955727.0215}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360291500", "value": 123156505.4016}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360292100", "value": 1339097899.7208998}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360292100", "value": 1891420941.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360292100", "value": 434548567.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360292100", "value": 279238688.3541}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360292100", "value": 147232217.3621}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360292100", "value": 116930731.97530001}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360292100", "value": 144784121.24}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360292700", "value": 949204483.5573}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360292700", "value": 1638127452.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360292700", "value": 436086434.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360292700", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360292700", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360292700", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360292700", "value": 135372174.2208}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360293300", "value": 641555929.6941999}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360293300", "value": 1745652121.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360293300", "value": 437116827.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360293300", "value": 7538481.926099999}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360293300", "value": 3974762.2941}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360293300", "value": 3156726.6513}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360293300", "value": 46927438.7648}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360293900", "value": 886175687.8848}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360293900", "value": 1716840493.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360293900", "value": 438803455.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360293900", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360293900", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360293900", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360293900", "value": 116969490.6072}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360294500", "value": 861953246.5394}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360294500", "value": 2088342597.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360294500", "value": 439621513.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360294500", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360294500", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360294500", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360294500", "value": 72068850.1632}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360295100", "value": 802718113.2657}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360295100", "value": 1379703032.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360295100", "value": 438905283.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360295100", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360295100", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360295100", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360295100", "value": 24403684.2808}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360295700", "value": 815358583.2103}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360295700", "value": 861630860.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360295700", "value": 435835688.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360295700", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360295700", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360295700", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360295700", "value": 10922083.743999999}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360296300", "value": 839610905.9237}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360296300", "value": 820927320.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360296300", "value": 439553029.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360296300", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360296300", "value": 0.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360296300", "value": 0.0}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360296300", "value": 12812006.6008}
+{"index": {}}
+{"port_string": "6:80:*", "protocol": "6", "port_src": "80", "port_dst": "*", "ip_string": "203.190.176.0/20 *", "ipv4_src": "203.190.176.0/20", "ipv4_dst": "*", "timestamp": "1360296900", "value": 1317439845.6849}
+{"index": {}}
+{"port_string": "6:*:*", "protocol": "6", "port_src": "*", "port_dst": "*", "timestamp": "1360296900", "value": 488480284.0}
+{"index": {}}
+{"port_string": "1:2048:2048", "protocol": "1", "port_src": "2048", "port_dst": "2048", "timestamp": "1360296900", "value": 434511488.0}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915 2001:eb6a:ff3f:97c7:350:55fe:569:805d", "ipv6_src": "2001:fe1d:bebe:38ee:e7ff:ac:1ff:915", "ipv6_dst": "2001:eb6a:ff3f:97c7:350:55fe:569:805d", "timestamp": "1360296900", "value": 37458171.500999995}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "64.185.115.251 203.190.178.175", "ipv4_src": "64.185.115.251", "ipv4_dst": "203.190.178.175", "timestamp": "1360296900", "value": 19750306.381}
+{"index": {}}
+{"port_string": "6:873:*", "protocol": "6", "port_src": "873", "port_dst": "*", "ip_string": "203.190.178.175 *", "ipv4_src": "203.190.178.175", "ipv4_dst": "*", "timestamp": "1360296900", "value": 15685546.433}
+{"index": {}}
+{"port_string": "17:*:*", "protocol": "17", "port_src": "*", "port_dst": "*", "ip_string": "163.45.0.0/16 *", "ipv4_src": "163.45.0.0/16", "ipv4_dst": "*", "timestamp": "1360296900", "value": 9546118.2388}
+{"index": {}}
